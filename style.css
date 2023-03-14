@@ -8,12 +8,15 @@ body {
 
 nav ul li {
 
-    display: inline-block
+    display: inline-block;
 }
 
-#upper-right8 {
+#upper-right {
+    display: inline-block;
+    position: absolute;
+    top: 17px;
+    right: 16px;
     
-    padding-inline-end: 1000px;
 }
 
 nav a {
